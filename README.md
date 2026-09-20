@@ -8,7 +8,6 @@ The workbook combines customer ratings, time-based analysis, geographic analysis
 
 ## 📊 Dashboard Preview
 
-> The screenshot you provided is intended to appear here.
 
 ![British Airways Reviews Tableau Dashboard](dashboard.png)
 
